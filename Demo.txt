@@ -1,0 +1,3 @@
+Hi! I am Git Repository
+use in Localrepository
+to push a code in Central repository
